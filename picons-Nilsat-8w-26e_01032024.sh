@@ -2,15 +2,15 @@
 #!/bin/sh
 #
 
-wget -O /var/volatile/tmp/picons-7&8w.tar.gz "https://onedrive.live.com/download?resid=F88C8064C25A5828%21348&authkey=!ALfqWjJm82hs7t0"
+wget -O /var/volatile/tmp/picons-Nilsat-8w-26e_01032024.tar.gz "https://onedrive.live.com/embed?resid=F88C8064C25A5828%21350&authkey=!ALOMLHT945TQYdU"
 
 echo ""
 # Download and install
 cd /tmp
 set -e
-tar -xzf picons-7w8w26e-12.12.2023.tar.gz -C /
+tar -xzf picons-Nilsat-8w-26e_01032024.tar.gz -C /
 set +e
-rm -f picons-7w8w26e-12.12.2023.tar.gz
+rm -f picons-Nilsat-8w-26e_01032024.tar.gz
 
 echo ""
 sync
