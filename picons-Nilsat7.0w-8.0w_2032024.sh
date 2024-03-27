@@ -2,15 +2,15 @@
 #!/bin/sh
 #
 
-wget -O /var/volatile/tmp/picons-Nilsat7.0w-8.0w_2032024.tar.gz "https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-Nilsat7.0w-8.0w_2032024.tar.gz"
+wget -O /var/volatile/tmp/picons-Nilsat-8w-01032024.tar.gz "https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-Nilsat-8w-01032024.tar.gz"
 
 echo ""
 # Download and install
 cd /tmp
 set -e
-tar -xzf picons-Nilsat7.0w-8.0w_2032024.tar.gz -C /
+tar -xzf picons-Nilsat-8w-01032024.tar.gz -C /
 set +e
-rm -f picons-Nilsat7.0w-8.0w_2032024.tar.gz
+rm -f picons-Nilsat-8w-01032024.tar.gz
 
 echo ""
 sync
