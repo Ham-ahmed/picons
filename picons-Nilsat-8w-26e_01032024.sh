@@ -2,7 +2,7 @@
 #!/bin/sh
 #
 
-wget -O /var/volatile/tmp/picons-Nilsat-8w-26e_01032024.tar.gz "https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-Nilsat-8w-26e_01032024.tar.gz"
+wget -O /var/volatile/tmp/picons-Nilsat-8w-26e_01032024.tar.gz "https://onedrive.live.com/embed?resid=F88C8064C25A5828%21350&authkey=!ALOMLHT945TQYdU"
 
 echo ""
 # Download and install
