@@ -2,7 +2,7 @@
 #!/bin/sh
 #
 
-wget -O /var/volatile/tmp/picons-30.0W_2032024.tar.gz "https://gitlab.com/h-ahmed/Panel/-/raw/main/picons-Nilsat7.0w-8.0w_2032024.tar.gz"
+wget -O /var/volatile/tmp/picons-Nilsat7.0w-8.0w_2032024.tar.gz "https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-Nilsat7.0w-8.0w_2032024.tar.gz"
 
 echo ""
 # Download and install
