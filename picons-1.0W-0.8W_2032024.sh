@@ -2,7 +2,7 @@
 #!/bin/sh
 #
 
-wget -O /var/volatile/tmp/picons-1.0W-0.8W_2032024.tar.gz "https://gitlab.com/h-ahmed/Panel/-/raw/main/picons-1.0W-0.8W_2032024.tar.gz"
+wget -O /var/volatile/tmp/picons-1.0W-0.8W_2032024.tar.gz "https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-1.0W-0.8W_2032024.tar.gz"
 
 echo ""
 # Download and install
