@@ -8,7 +8,7 @@ echo ""
 # Download and install
 cd /tmp
 set -e
-tar -xzf picons-picons-19.2E_2032024.tar.gz -C /
+tar -xzf picons-19.2E_2032024.tar.gz -C /
 set +e
 rm -f picons-19.2E_2032024.tar.gz
 
